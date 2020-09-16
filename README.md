@@ -1,6 +1,6 @@
 # mlhep2020
 
-Notebooks from MLHEP 2020.
+**Notebooks from MLHEP 2020.**
 
 Section 1 - Introduction into ML
 
